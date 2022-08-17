@@ -27,6 +27,5 @@ Figure 3: The alert shown if one or more of the fields is left blank
 #
 ![image](https://user-images.githubusercontent.com/96390217/185225424-dc028d54-1494-4609-8784-46b6273bdf2e.png)
 
-Figure 4: The text files where the account information is stored
+Figure 4: The text files where the account information is stored (Three inputs have been added)
 
-Figure 4 shows the information for three accounts which have been stored in a text file
